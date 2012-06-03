@@ -1,0 +1,140 @@
+TScrawl
+v7
+r1
+cCheck dependencies
+
+N/Users/padsoftware/Desktop/Scrawl 2/BWToolkitFramework.framework
+c000000004F3E9AB500000000000000CC
+t1329502901
+s204
+
+N/Users/padsoftware/Desktop/Scrawl 2/Credits.rtf
+c000000004EF2544E00000000000004F0
+t1324504142
+s1264
+
+N/Users/padsoftware/Desktop/Scrawl 2/English.lproj/InfoPlist.strings
+c000000004EBC640E000000000000005A
+t1320969230
+s90
+
+N/Users/padsoftware/Desktop/Scrawl 2/English.lproj/MainMenu.xib
+c000000004F6383FA000000000002E593
+t1331921914
+s189843
+
+N/Users/padsoftware/Desktop/Scrawl 2/Note.icns
+c000000004F4672A10000000000057BFD
+t1330016929
+s359421
+
+N/Users/padsoftware/Desktop/Scrawl 2/Scrawl.icns
+c000000004F4672A10000000000057BFD
+t1330016929
+s359421
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Frameworks/BWToolkitFramework.framework
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Info.plist
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/Credits.rtf
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/Note.icns
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/Scrawl.icns
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/status-alt.png
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/status.png
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/top_bar.png
+t2
+s0
+
+N/Users/padsoftware/Desktop/Scrawl 2/status-alt.png
+c000000004F4668E80000000000000691
+t1330014440
+s1681
+
+N/Users/padsoftware/Desktop/Scrawl 2/status.png
+c000000004F4668DD000000000000071A
+t1330014429
+s1818
+
+N/Users/padsoftware/Desktop/Scrawl 2/top_bar.png
+c000000004F1E68760000000000004957
+t1327392886
+s18775
+
+NScrawl-Info.plist
+c000000004F6339EA0000000000000442
+t1331902954
+s1090
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353614748#353614748#0(239"[BEROR]error: There is no SDK with the name or path 'macosx10.8'[BEROR]CodeSign error: Certificate identity 'Mac Developer: Allen Dunahoo (XMU23NK48D)' appears more than once in the keychain. The codesign tool requires there only be one.2(4@57"error: There is no SDK with the name or path 'macosx10.8'353614748#18446744073709551615#0#0(1@0"0(4@166"CodeSign error: Certificate identity 'Mac Developer: Allen Dunahoo (XMU23NK48D)' appears more than once in the keychain. The codesign tool requires there only be one.353614748#18446744073709551615#0#0(1@0"0(0#1#0"17255308544#0"0#
+
+CCompileXIB "/Users/padsoftware/Desktop/Scrawl 2/English.lproj/MainMenu.xib"
+r0
+
+CCopyStringsFile "/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/Credits.rtf Credits.rtf
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/Note.icns Note.icns
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/Scrawl.icns Scrawl.icns
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/status-alt.png status-alt.png
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/status.png status.png
+r0
+
+CCpResource build/Debug/Scrawl.app/Contents/Resources/top_bar.png top_bar.png
+r0
+
+CPBXCp build/Debug/Scrawl.app/Contents/Frameworks/BWToolkitFramework.framework BWToolkitFramework.framework
+r0
+
+CProcessInfoPlistFile "/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app/Contents/Info.plist" Scrawl-Info.plist
+r0
+
+CTouch "/Users/padsoftware/Desktop/Scrawl 2/build/Debug/Scrawl.app"
+r0
+
